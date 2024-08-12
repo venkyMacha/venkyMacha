@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @venkyMacha (call me Venky)
-- 👀 I’m interested in web development, mostly server-side
-- 🌱 I’m currently learning HTML,CSS,JS  &  Git(I'm kinda new here...)
-- 💞️ I’m looking to collaborate on 12th grade level coding
-- 📫 How to reach me? Good question.
+- 👀 I’m interested in web development, software development mostly server-side
+- 🌱 Python, HTML, CSS, Javascript, Rust, etc.
+- 💞️ I’m looking to collaborate.
 
 <!---
 venkyMacha/venkyMacha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
